@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/edward/tiny4412/android-4.0/.repo/repo'
+let g:netrw_dirhist_2='/media/rootfs_/etc/init.d'
+let g:netrw_dirhist_3='/home/edward/workSpace/zynq-env/demo'
+let g:netrw_dirhist_4='/home/edward/.vim'
+let g:netrw_dirhist_5='/home/edward/.vim/bundle/taglist.vim/plugin'
